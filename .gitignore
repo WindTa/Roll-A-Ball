@@ -1,3 +1,7 @@
+.idea
+*.iml
+*.log
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
